@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="kuvia">
+    <file>musical_note_1_dennis_bo_01.png</file>
+    <file>musical_note_2_dennis_bo_01.png</file>
+    <file>musical_note_3_dennis_bo_01.png</file>
+    <file>musical_note_nicu_bucule_01.png</file>
+    <file>quaver_nathan_eady_01.png</file>
+    <file>simple_croche_jean-victo_01.png</file>
+    <file>double_note_two_jean-vic_01.png</file>
+    <file>45_rpm_record_gerald_g._01.png</file>
+    <file>45_rpm_record_gerald_g._02.png</file>
+    <file>45_rpm_record_gerald_g._03.png</file>
+    <file>45_rpm_record_gerald_g._04.png</file>
+    <file>45_rpm_records_gerald_g._01.png</file>
+    <file>45_rpm_records_gerald_g._02.png</file>
+    <file>double_croche_jean-victo_01.png</file>
+    <file>double_note_two_jean-vic_01.jpg</file>
+    <file>double_note_jean-victor__01.png</file>
+  </qresource>
+</RCC>
