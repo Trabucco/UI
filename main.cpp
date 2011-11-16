@@ -11,4 +11,6 @@ Q_DECL_EXPORT int main(int argc, char *argv[])
     viewer->showExpanded();
 
     return app->exec();
+
+    // testing, if this works.
 }
