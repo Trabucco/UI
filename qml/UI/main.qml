@@ -13,4 +13,5 @@ Rectangle {
             Qt.quit();
         }
     }
+    // TEST!
 }
